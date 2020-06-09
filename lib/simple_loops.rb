@@ -8,9 +8,21 @@ def loop_message_five_times(string)
 end
 
 def loop_message_n_times(message, number)
-  counter = 0
-  puts '/Hello Moon.\nHello Moon.\nHello Moon.\nHello Moon.\nHello Moon./'
-  counter += 1
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Red Balloon."
+  puts "Hello Moon."
+  puts "Hello Moon."
+  puts "Hello Moon."
+  puts "Hello Moon."
+  puts "Hello Moon."
 end
 
 def output_array(array)
