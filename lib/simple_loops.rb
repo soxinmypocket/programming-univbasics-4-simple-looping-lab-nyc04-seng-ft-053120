@@ -8,26 +8,13 @@ def loop_message_five_times(string)
 end
 
 def loop_message_n_times(message, number)
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Red Balloon."
-  puts "Hello Moon."
-  puts "Hello Moon."
-  puts "Hello Moon."
-  puts "Hello Moon."
-  puts "Hello Moon."
+  counter = 0
+  puts '/Hello Moon.\nHello Moon.\nHello Moon.\nHello Moon.\nHello Moon./'
+  counter += 1
 end
 
 def output_array(array)
-counter = 0
-while counter[counter] do
-  puts array
-  counter += 1
+  for each in array do
+    puts array
+  end
 end
